@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(423,5): warning MSB8015: All source files are not up-to-date:  forcing a rebuild of all source files due to the contents of 'D:\Backup Zizi\Disco Local C\Documentos\Programacao_Avancada\Trabalho_4_\Laplaciano\Laplaciano\Debug\Laplaciano.tlog\CL.command.1.tlog' being invalid.
+LINK : warning LNK4076: arquivo de status incremental inválido 'D:\Backup Zizi\Disco Local C\Documentos\Programacao_Avancada\Trabalho_4_\Laplaciano\Debug\Laplaciano.ilk' (que será excluído); vinculação não incremental
+D:\Backup Zizi\Disco Local C\Documentos\Programacao_Avancada\Trabalho_4_\Laplaciano\Debug\Laplaciano.pdb : fatal error LNK1318: Erro PDB inesperado; FORMAT (11) 'D:\Backup Zizi\Disco Local C\Documentos\Programacao_Avancada\Trabalho_4_\Laplaciano\Debug\Laplaciano.pdb'
